@@ -3,3 +3,6 @@
 <h3 align="center">officer of the Department of State Control of the State Special Communications Administration, Python Developer from Ukraine 💙💛</h3>
 
 <h3 align="left">NATO TIDE <a href="https://github.com/tidehackathon/team-ssscip-lab" target="_blank">Hackathon 2023</a> 
+
+  
+  [trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
