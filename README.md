@@ -5,4 +5,4 @@
 <h3 align="left">NATO TIDE <a href="https://github.com/tidehackathon/team-ssscip-lab" target="_blank">Hackathon 2023</a> 
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrotonik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrotonik&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
